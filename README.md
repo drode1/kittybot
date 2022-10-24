@@ -1,4 +1,4 @@
-# Telegram status bot
+# Telegram Kitty & Dog bot
 
 ### Краткое описание проекта
 Бот умеет отправлять вам котиков и собчаек.
